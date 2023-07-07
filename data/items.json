@@ -1,9 +1,8 @@
 [ 
-    { "name": "Progressive Vision Rarity", "progression": true, "count": 9, "category": ["Visions"] },
+    { "name": "Progressive Vision Rarity", "progression": true, "count": 5, "category": ["Visions"] },
     { "name": "Companion Unit", "progression": true, "category": ["Visions"] },
-    { "name": "Companion Rarity +1", "progression": true, "count": 2, "category": ["Visions"] },
     { "name": "Unit Summon", "progression": true, "count": 30, "category": ["Visions"] },
-    { "name": "FFBE Units", "useful": true, "category": ["Visions"] },
+    { "name": "Multi Summon", "progression": true, "count": 10, "category": ["Visions"] },
     { "name": "FF1 Units", "useful": true, "category": ["Visions"] },
     { "name": "FF2 Units", "useful": true, "category": ["Visions"] },
     { "name": "FF3 Units", "useful": true, "category": ["Visions"] },
@@ -48,6 +47,6 @@
     { "name": "Ramuh", "progression": true, "category": ["Espers"] },
     { "name": "Diabolos", "progression": true, "category": ["Espers"] },
 
-    { "name": "Progressive Continent", "progression": true, "category": ["Continents"], "count": 10 }
+    { "name": "Progressive Continent", "progression": true, "category": ["Continents"], "count": 3 }
 
 ]

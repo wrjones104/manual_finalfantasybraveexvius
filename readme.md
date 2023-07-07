@@ -1,7 +1,7 @@
 # Final Fantasy Brave Exvius - Manual AP
 
 ## About
-In this manual AP version of FFBE, you'll need to keep your wits about you and practice some patience and restraint as you slowly build your team and your power so that you can either clear Season 1 or defeat Omega Weapon! 
+In this manual AP version of FFBE, you'll need to keep your wits about you and practice some patience and restraint as you slowly build your team and your power so that you can defeat Shinryu in the Chamber of the Fallen! 
 
 ## Rules
 
@@ -11,22 +11,24 @@ In this manual AP version of FFBE, you'll need to keep your wits about you and p
   * Any NPC quests
   * Farplane quests and battles (only the Moogle realm)
   * Coin Exchange Shops
+  * FFBE vision units
 * You may summon using tickets or lapis up to your current **Unit Summon** count
-  * If you use a 10+1 ticket or similar, it counts as 11 summons
+* For the **Multi-Summon** item, you may choose **ANY** multi-summon option currently available to you
+* You may only use units of the types you've unlocked
+  * FFBE visions units are available by default
 * You may only use units with rarities up to your current **Progressive Vision Rarity** level
   * The **Progressive Vision Rarity** rewards do not apply to story characters - you may awaken Rain, Lasswell and the rest of the story crew to their max rarities without restriction
 * You may only use friend units after having unlocked that feature via the **Companion Unit** reward
-  * You may only use friend units up to your current level of **Progressive Vision Rarity** 
-  * If you receive the **Companion Rarity +1** reward, you may take a companion whose rarity is 1 higher than your current **Progressive Vision Rarity** level (there are 2 of these in the pool, giving you a chance to have friend units at +2 your current rarity level)
+  * You may only use friend units of the types you have unlocked an up to your current level of **Progressive Vision Rarity** 
 * Most things accessible from the main menu are AP rewards, such as **Quest**, **Bundles**, **Panel Quests**, etc.
-* Each esper is **progressive** meaning there are 3 rewards per esper. You may only use the espers (and up to the rarity) that you've received as rewards
+* You may only use the espers that you've received as rewards
 
 ## Check Rewards
 
 * Unit Summons
 * Progressive Vision Rarities
 * Progressive Continents (needed to progress through the story)
-* Companion Unit (+rarity upgrades)
+* Companion Unit
 * Vortex chambers
 * Colosseum & Arena
 * Espers
@@ -35,11 +37,11 @@ In this manual AP version of FFBE, you'll need to keep your wits about you and p
 
 ## Check Locations
 
-* Clearing any World Map stage (Season 1 only)
+* Clearing any World Map stage (first 4 continents only)
 * Most trophies (some long ones were left out)
-* Clearing any Chamber of the Fallen fight (up to Omega Weapon)
+* Rank milestones
+* Clearing any Chamber of the Fallen fight (up to Shinryu)
 
-## Victory Conditions
+## Victory Condition
 
-* Defeating Omega Weapon in the Chamber of the Fallen **OR**
-* Finishing the Season 1 story
+* Defeating Shinryu in the Chamber of the Fallen

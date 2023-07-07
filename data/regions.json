@@ -7,17 +7,17 @@
     },
 
     "Nemeses Unlock 1": {
-        "requires": "|Vortex - Nemeses| and (|Progressive Vision Rarity:2| or (|Companion Unit| and |Companion Rarity +1|))",
+        "requires": "|Vortex - Nemeses| and |Progressive Vision Rarity:2|",
         "connects_to": [
             "Nemeses Unlock 2"
         ]
     },
 
     "Nemeses Unlock 2": {
-        "requires": "|Vortex - Nemeses| and (|Progressive Vision Rarity:3| or (|Companion Unit| and |Companion Rarity +1:2|))"
+        "requires": "|Vortex - Nemeses| and |Progressive Vision Rarity:3|"
     },
 
     "Victory": {
-        "requires": "(|Vortex - Nemeses| and (|Progressive Vision Rarity:3| or (|Companion Unit| and |Companion Rarity +1:2|)))"
+        "requires": "|Vortex - Nemeses| and |Progressive Vision Rarity:5|"
     }
 }
