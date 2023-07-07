@@ -1,0 +1,53 @@
+[ 
+    { "name": "Progressive Vision Rarity", "progression": true, "count": 9, "category": ["Visions"] },
+    { "name": "Companion Unit", "progression": true, "category": ["Visions"] },
+    { "name": "Companion Rarity +1", "progression": true, "count": 2, "category": ["Visions"] },
+    { "name": "Unit Summon", "progression": true, "count": 30, "category": ["Visions"] },
+    { "name": "FFBE Units", "useful": true, "category": ["Visions"] },
+    { "name": "FF1 Units", "useful": true, "category": ["Visions"] },
+    { "name": "FF2 Units", "useful": true, "category": ["Visions"] },
+    { "name": "FF3 Units", "useful": true, "category": ["Visions"] },
+    { "name": "FF4 Units", "useful": true, "category": ["Visions"] },
+    { "name": "FF5 Units", "useful": true, "category": ["Visions"] },
+    { "name": "FF6 Units", "useful": true, "category": ["Visions"] },
+    { "name": "FF7 Units", "useful": true, "category": ["Visions"] },
+    { "name": "FF8 Units", "useful": true, "category": ["Visions"] },
+    { "name": "FF9 Units", "useful": true, "category": ["Visions"] },
+    { "name": "FF10 Units", "useful": true, "category": ["Visions"] },
+    { "name": "FF11 Units", "useful": true, "category": ["Visions"] },
+    { "name": "FF12 Units", "useful": true, "category": ["Visions"] },
+    { "name": "FF13 Units", "useful": true, "category": ["Visions"] },
+    { "name": "FF14 Units", "useful": true, "category": ["Visions"] },
+    { "name": "FF15 Units", "useful": true, "category": ["Visions"] },
+    { "name": "FF Tactics Units", "useful": true, "category": ["Visions"] },
+    { "name": "FF Type-0 Units", "useful": true, "category": ["Visions"] },
+    { "name": "Other Units", "useful": true, "category": ["Visions"] },
+
+    { "name": "Vortex - Event", "useful": true, "category": ["Vortex"] },
+    { "name": "Vortex - Enhance", "useful": true, "category": ["Vortex"] },
+    { "name": "Vortex - Special", "category": ["Vortex"] },
+    { "name": "Vortex - Nemeses", "progression": true, "category": ["Vortex"] },
+    { "name": "Vortex - Chronicle", "useful": true, "category": ["Vortex"] },
+
+    { "name": "Colosseum", "progression": true, "category": ["Colosseum"] },
+    { "name": "Arena", "progression": true, "category": ["Colosseum"] },
+
+    { "name": "Crafting - Items", "progression": true, "category": ["Crafting"] },
+    { "name": "Crafting - Equipment", "progression": true, "category": ["Crafting"] },
+    { "name": "Crafting - Abilities", "progression": true, "category": ["Crafting"] },
+
+    { "name": "Expeditions", "category": ["Extras"] },
+    { "name": "Quests", "category": ["Extras"] },
+    { "name": "Panel Quest", "useful": true, "category": ["Extras"] },
+    { "name": "Bundles", "useful": true, "category": ["Extras"] },
+
+    { "name": "Siren", "progression": true, "category": ["Espers"] },
+    { "name": "Ifrit", "progression": true, "category": ["Espers"] },
+    { "name": "Golem", "progression": true, "category": ["Espers"] },
+    { "name": "Shiva", "progression": true, "category": ["Espers"] },
+    { "name": "Ramuh", "progression": true, "category": ["Espers"] },
+    { "name": "Diabolos", "progression": true, "category": ["Espers"] },
+
+    { "name": "Progressive Continent", "progression": true, "category": ["Continents"], "count": 10 }
+
+]
