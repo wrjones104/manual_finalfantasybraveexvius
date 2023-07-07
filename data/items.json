@@ -2,7 +2,7 @@
     { "name": "Progressive Vision Rarity", "progression": true, "count": 5, "category": ["Visions"] },
     { "name": "Companion Unit", "progression": true, "category": ["Visions"] },
     { "name": "Unit Summon", "progression": true, "count": 30, "category": ["Visions"] },
-    { "name": "Multi Summon", "progression": true, "count": 10, "category": ["Visions"] },
+    { "name": "Multi Summon", "progression": true, "count": 10 },
     { "name": "FF1 Units", "useful": true, "category": ["Visions"] },
     { "name": "FF2 Units", "useful": true, "category": ["Visions"] },
     { "name": "FF3 Units", "useful": true, "category": ["Visions"] },
