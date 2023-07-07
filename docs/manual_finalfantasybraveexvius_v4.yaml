@@ -69,7 +69,7 @@ Manual_FinalFantasyBraveExvius_v4:
   start_inventory:
     # Start with these items.
     Unit Summon: 5
-    Multi-Summon: 1
+    Multi Summon: 1
 
   start_hints:
     # Start with these item's locations prefilled into the !hint command.
