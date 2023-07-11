@@ -103,14 +103,18 @@
 	{ "name": "Clear Beasts of the Dark", "region": "Nemeses Unlock 2", "category": ["Chamber of the Fallen"] },
 	{ "name": "Clear The Lure of Echidna", "region": "Nemeses Unlock 2", "category": ["Chamber of the Fallen"] },
 	{ "name": "Clear The Octopus and the Teacher", "region": "Nemeses Unlock 2", "category": ["Chamber of the Fallen"] },
-	{ "name": "Clear Machina of Destruction", "region": "Nemeses Unlock 2", "category": ["Chamber of the Fallen"] },
-	{ "name": "Clear The Rumble of Malboro", "region": "Nemeses Unlock 2", "category": ["Chamber of the Fallen"] },
-	{ "name": "Clear Wicked Moon", "region": "Nemeses Unlock 2", "category": ["Chamber of the Fallen"] },
 	{ "name": "Clear The Fallen Ice Bird", "region": "Nemeses Unlock 2", "category": ["Chamber of the Fallen"] },
 	{ "name": "Clear The Legendary Stag", "region": "Nemeses Unlock 2", "category": ["Chamber of the Fallen"] },
-	{ "name": "Clear Armor of Oppression", "region": "Nemeses Unlock 2", "category": ["Chamber of the Fallen"] },
-	{ "name": "Clear The Tortuous Trio", "region": "Nemeses Unlock 2", "category": ["Chamber of the Fallen"]},
+	{ "name": "Clear Machina of Destruction", "region": "Nemeses Unlock 2", "category": ["Chamber of the Fallen"] },
+	{ "name": "Clear Wicked Moon", "region": "Nemeses Unlock 2", "category": ["Chamber of the Fallen"] },
 	{ "name": "Clear Great Explosion Festival", "region": "Nemeses Unlock 2", "category": ["Chamber of the Fallen"] },
+	{ "name": "Clear The Rumble of Malboro", "region": "Nemeses Unlock 2", "category": ["Chamber of the Fallen"] },
+	{ "name": "Clear The Tortuous Trio", "region": "Nemeses Unlock 2", "category": ["Chamber of the Fallen"]},
+	{ "name": "Clear Venemous Vines of Death", "region": "Nemeses Unlock 2", "category": ["Chamber of the Fallen"]},
+	{ "name": "Clear The Mad Doll", "region": "Nemeses Unlock 2", "category": ["Chamber of the Fallen"]},
+	{ "name": "Clear Beasts of the Dark II", "region": "Nemeses Unlock 2", "category": ["Chamber of the Fallen"] },
+	{ "name": "Clear Ancient Hellbringer", "region": "Nemeses Unlock 2", "category": ["Chamber of the Fallen"] },
+	{ "name": "Clear Armor of Oppression", "region": "Nemeses Unlock 2", "category": ["Chamber of the Fallen"] },
 
-	{ "name": "Clear Ancient Hellbringer", "region": "Victory", "victory": true, "category": ["Victory"] }
+	{ "name": "Clear Dragon of the Abyss", "region": "Victory", "victory": true, "category": ["Victory"] }
 ]
